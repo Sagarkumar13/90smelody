@@ -17,7 +17,7 @@ let musicData = [
     id: 1,
     category: "Sagar Kumar",
     name: "Aaj Phir Tum Pe",
-    src: "songs/Aaj_Phir_Tum_Pe.mp3",
+    src: "https://www.dropbox.com/scl/fi/mzidj37z1ubgrfgpz7z48/Aaj_Phir_Tum_Pe.mp3?rlkey=vvdprzkweec48a652ve6fgnsv&st=3knsxmas&dl=1",
     image:
       "images/IMG_20220116_153005.jpg",
   },
@@ -25,7 +25,7 @@ let musicData = [
     id: 2,
     category: "Sagar Kumar",
     name: "Ae Mere Humsafar",
-    src: "songs/Ae_Mere_Humsafar.mp3",
+    src: "https://www.dropbox.com/scl/fi/yzxc79lb64vjehuj59c54/Ae_Mere_Humsafar.mp3?rlkey=jhnydmzff6uwpokuxakq6cv1f&st=cab8t90h&dl=1",
     image:
       "images/IMG_20220116_152953.jpg",
   },
@@ -33,7 +33,7 @@ let musicData = [
     id: 3,
     category: "Sagar Kumar",
     name: "Are Jane Kaise Kab Kahan Iqrar",
-    src: "songs/Are_Jane_Kaise_Kab_Kahan_Iqrar.mp3",
+    src: "https://www.dropbox.com/scl/fi/7c4u9xdr15q0eogf7lik0/Are_Jane_Kaise_Kab_Kahan_Iqrar.mp3?rlkey=manzrf537gdpbe0zj4c6kzjah&st=poz48apv&dl=1",
     image:
       "images/IMG_20220116_153016.jpg",
   },
@@ -41,7 +41,7 @@ let musicData = [
     id: 4,
     category: "Sagar Kumar",
     name: "Baar Baar Dekho Hazar Baar Dekho",
-    src: "songs/Baar_Baar_Dekho_Hazar_Baar_Dekho.mp3",
+    src: "https://www.dropbox.com/scl/fi/ymf3xqy4rwqnmt0e8sgha/Baar_Baar_Dekho_Hazar_Baar_Dekho.mp3?rlkey=vc1ielohhkz3k5qnxt0ezoq9p&st=niovbnes&dl=1",
     image:
       "images/IMG_20220116_152624.jpg",
   },
@@ -49,7 +49,7 @@ let musicData = [
     id: 5,
     category: "Sagar Kumar",
     name: "Chura Liya Hai Tumne Jo Dil Ko",
-    src: "songs/Chura_Liya_Hai_Tumne_Jo_Dil_Ko.mp3",
+    src: "https://www.dropbox.com/scl/fi/vw3w13hexsc0bli0ep6mb/Chura_Liya_Hai_Tumne_Jo_Dil_Ko.mp3?rlkey=k7nciuf4htympnxunr3fvgkm2&st=a9bkfi2w&dl=1",
     image:
       "images/IMG_20220116_153140.jpg",
   },
@@ -57,187 +57,11 @@ let musicData = [
     id: 6,
     category: "Sagar Kumar",
     name: "Gazab Ka Hai Din",
-    src: "songs/Gazab_Ka_Hai_Din.mp3",
+    src: "https://www.dropbox.com/scl/fi/6ruv9zwwdnpulolvbp45p/Gazab_Ka_Hai_Din.mp3?rlkey=b7q0v7jqefq6vitbm8ai3sq1j&st=yzctef5y&dl=1",
     image:
       "images/IMG_20220116_153046.jpg",
   },
-  {
-    id: 7,
-    category: "Sagar Kumar",
-    name: "Gulabi Ankhen",
-    src: "songs/Gulabi_Ankhen___From__The_Train_.mp3",
-    image:
-      "images/IMG_20220116_152529.jpg",
-  },
-  {
-    id: 8,
-    category: "Sagar Kumar",
-    name: "Hum Tum Ek Kamre Mein",
-    src: "songs/Hum_Tum_Ek_Kamre_Mein.mp3",
-    image:
-      "images/IMG_20220116_152541.jpg",
-  },
-  {
-    id: 9,
-    category: "Sagar Kumar",
-    name: "Jaan E Jigar Jaaneman",
-    src: "songs/Jaan___E___Jigar_Jaaneman.mp3",
-    image:
-      "images/IMG_20220116_153037.jpg",
-  },
-  {
-    id: 10,
-    category: "Sagar Kumar",
-    name: "Jeena Yahan Marna Yahan",
-    src: "songs/Jeena_Yahan_Marna_Yahan.mp3",
-    image:
-      "images/IMG_20220116_152613.jpg",
-  },
-  {
-    id: 11,
-    category: "Sagar Kumar",
-    name: "Jooma Chumma De De",
-    src: "songs/Jooma_Chumma_De_De__Pt__3.mp3",
-    image:
-      "images/IMG_20220116_152835.jpg",
-  },
-  {
-    id: 12,
-    category: "Sagar Kumar",
-    name: "Karvaten Badalte Rahe",
-    src: "songs/Karvaten_Badalte_Rahe.mp3",
-    image:
-      "images/IMG_20220116_152454.jpg",
-    papular: 15,
-  },
-  {
-    id: 13,
-    category: "Sagar Kumar",
-    name: "Kisi Ki Muskurahaton Se",
-    src: "songs/Kisi_Ki_Muskurahaton_Se.mp3",
-    image:
-      "images/IMG_20220116_152747.jpg",
-  },
-  {
-    id: 14,
-    category: "Sagar Kumar",
-    name: "Kya Khoob Lagti Ho",
-    src: "songs/Kya_Khoob_Lagti_Ho.mp3",
-    image:
-      "images/IMG_20220116_152711.jpg",
-  },
-  {
-    id: 15,
-    category: "Sagar Kumar",
-    name: "Likhe Jo Khat Tujhe",
-    src: "songs/Likhe_Jo_Khat_Tujhe.mp3",
-    image:
-      "images/IMG_20220116_153151.jpg",
-  },
-  {
-    id: 16,
-    category: "Sagar Kumar",
-    name: "Mera Juta Hai Japani",
-    src: "songs/Mera_Juta_Hai_Japani__From__Shri_420____1955_.mp3",
-    image:
-      "images/IMG_20220116_152735.jpg",
-  },
-  {
-    id: 17,
-    category: "Sagar Kumar",
-    name: "Mere Angne Mein",
-    src: "songs/Mere_Angne_Men.mp3",
-    image:
-      "images/IMG_20220116_153025.jpg",
-  },
-  {
-    id: 18,
-    category: "Sagar Kumar",
-    name: "Mere Mehboob Qayamat Hogi",
-    src: "songs/Mere_Mehboob_Qayamat_Hogi__Pt__1__From__Mr__X_in_Bombay__.mp3",
-    image:
-      "images/IMG_20220116_152723.jpg",
-  },
-  {
-    id: 19,
-    category: "Sagar Kumar",
-    name: "Mere Naseeb Mein Naseeb",
-    src: "songs/Mere_Naseeb_Mein___Naseeb___Soundtrack_Version.mp3",
-    image:
-      "images/IMG_20220116_152507.jpg",
-  },
-  {
-    id: 20,
-    category: "Sagar Kumar",
-    name: "Mere Sapnon Ki Rani",
-    src: "songs/Mere_Sapnon_Ki_Rani__From__Aradhana__.mp3",
-    image:
-      "images/IMG_20220116_152858.jpg",
-  },
-  {
-    id: 21,
-    category: "Sagar Kumar",
-    name: "Nazar Ke Samne",
-    src: "songs/Nazar_Ke_Samne.mp3",
-    image:
-      "images/IMG_20220116_152912.jpg",
-  },
-  {
-    id: 22,
-    category: "Sagar Kumar",
-    name: "Neele Ambar Par",
-    src: "songs/Neele_Ambar_Par.mp3",
-    image:
-      "images/IMG_20220116_153107.jpg",
-  },
-  {
-    id: 23,
-    category: "Sagar Kumar",
-    name: "O Mere Dil Ke Chain",
-    src: "songs/O_Mere_Dil_Ke_Chain__From__Mere_Jeevan_Saathi__.mp3",
-    image:
-      "images/IMG_20220116_152823.jpg",
-  },
-  {
-    id: 24,
-    category: "Sagar Kumar",
-    name: "Roop Tera Mastana",
-    src: "songs/Roop_Tera_Mastana__From__Aradhana__.mp3",
-    image:
-      "images/IMG_20220116_152845.jpg",
-  },
-  {
-    id: 25,
-    category: "Sagar Kumar",
-    name: "Saagar Jaisi Aankhonwali",
-    src: "songs/Saagar_Jaisi_Aankhonwali___Saagar___Soundtrack_Version.mp3",
-    image:
-      "images/IMG_20220116_153057.jpg",
-  },
-  {
-    id: 26,
-    category: "Sagar Kumar",
-    name: "Suhana Safar Aur Yeh Mausam",
-    src: "songs/Suhana_Safar_Aur_Yeh_Mausam.mp3",
-    image:
-      "images/IMG_20220116_152641.jpg",
-  },
-  {
-    id: 27,
-    category: "Sagar Kumar",
-    name: "Taarif Karoon",
-    src: "songs/Taarif_Karoon.mp3",
-    image:
-      "images/IMG_20220116_153130.jpg",
-  },
-  {
-    id: 28,
-    category: "Sagar Kumar",
-    name: "Zindagi Ek Safar Hai Suhana",
-    src: "songs/Zindagi_Ek_Safar_Hai_Suhana__From__Andaz__.mp3",
-    image:
-      "images/IMG_20220116_152519.jpg",
-  },
+
 
 
 ];
